@@ -1,0 +1,119 @@
+.seccion7{
+    background-color: #333333;
+    h3{
+        color: #aeaeae; 
+        font-size: 16px;
+    }
+    .shadow{
+        width: 30px;
+        margin-bottom: 25px;
+    }
+    P{
+        color: #aeaeae;
+    }
+}
+.bloque{
+    float: left;
+    width: 27%;
+    padding: 3%;
+}
+.bloque1{
+    text-align: center;
+    p{
+        padding: 0;
+    }
+    .red_social{
+        margin: 30px;
+        margin-bottom: 50px;
+        background-color: white;
+        opacity: 0.6;
+    }
+}
+.bloque2{
+    img{
+        width: 53px;
+        border-radius: 5px;
+        float: left;
+        padding: 5px 15px 5px 20px;
+    }
+    p{
+        padding: 5px;
+    }
+    span{
+        color: white;
+        font-size: 12.6px;
+        padding: 5px 6px;
+        border-radius: 5px;
+    }
+}
+.green{
+    background-color: #54d154;
+}
+.yelow{
+    background-color: #ffba00;
+}
+.blue{
+    background-color: #089dea;
+}
+.orange{
+    background-color: #f34d04;
+}
+.bloque3{
+    p{
+        font-size: 14px;
+        text-align: center;
+        margin: auto;
+    }
+}
+//form
+form{
+    margin-top: 25px;
+}
+.form{
+    background-color: #444444;
+    border: none;
+    width: 90%;
+    color: #6c6c6c;
+    padding: 10px 5%;
+    margin-bottom: 3px;
+}
+#name{
+    border-radius: 5px 5px 0 0;
+}
+#message{
+    padding-bottom: 100px;
+}
+#send{
+    color: white;
+    background-color: #2b9b2b;
+    border-radius: 0 0 5px 5px; 
+    width: 100%;
+}
+//end form
+.footer{
+    background-color: #222222;
+    h3{
+        color: #101010;
+        padding-top: 25px;
+    }
+    .shadow{
+        background-color: #101010;
+        margin-bottom: 25px !important;
+    }
+    img{
+        
+        padding-left: 38px;
+        padding-right: 38px;
+        margin-bottom: 30px;
+    }
+}
+.end{
+    background-color: #111111;
+    text-align: center;
+    p{
+        padding: 12px 0px;
+    }
+}
+.sponsors{
+    text-align: center;
+}

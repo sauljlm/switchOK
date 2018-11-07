@@ -1,0 +1,45 @@
+.section2{
+    h3{
+        color: #828181;
+    }
+    .light{
+        color: #b7b3b3;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 72px;
+    }
+    .container_box{
+        max-width: 1140px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .box{
+        width: 30%;
+        float: left;
+        padding: 1.5%;
+        text-align: center;
+        color: #828181;
+        img{
+            max-width: 141px;
+            width: 100%;
+            display: block;
+            margin: 0 auto;
+        }
+        h4{
+            padding-top: 27px;
+            padding-bottom: 20px;
+        }
+        a{
+            background-color: #54d154;
+            color: white !important;
+            padding: 10px 20px;
+            border-radius: 25px;
+            line-height: 80px;
+        }
+        p{
+            max-width: 270px;
+            margin: 0 auto;
+        }
+    }
+    
+}
